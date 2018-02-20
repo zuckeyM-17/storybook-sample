@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/vue": "^3.3.13",
+    "babel-core": "^6.26.0"
+  },
+  "dependencies": {
+    "vue": "^2.5.13"
+  }
 }
